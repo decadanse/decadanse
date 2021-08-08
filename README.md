@@ -32,7 +32,7 @@ Some of my code with what I'm learning stuff you can find here (some of them (al
 - Me on NotABug.org https://notabug.org/decadanse
  
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 📫 How to reach me ... e-mail or via Twitter
 
 
 <!---
