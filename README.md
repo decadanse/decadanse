@@ -30,18 +30,18 @@ LEARNING
       -    BurpSuite
 
 Some courses:
--   Udemy - Python Networking and Security
--   Sector7 RED TEAM OPERATOR courses
--   eLearn
--   CEHv11
--   Reverse Engineering with Ghidra
--   and other...
--   and many many books...
+      -    Udemy - Python Networking and Security
+      -    Sector7 RED TEAM OPERATOR courses
+      -    eLearn
+      -    CEHv11
+      -    Reverse Engineering with Ghidra
+      -    and other...
+      -    and many many books...
 
 Some of my code with what I'm learning stuff you can find here (some of them (almost all of them) you can find only on NotABug.org)
 - Me on NotABug.org https://notabug.org/decadanse
  
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... well, I just need more real-world expirience
 - 📫 How to reach me ... e-mail or via Twitter
 
 
