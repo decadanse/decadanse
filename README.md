@@ -29,7 +29,7 @@ LEARNING
       -    SQL
       -    BurpSuite
 
-Some courses:
+-   Some courses:
       -    Udemy - Python Networking and Security
       -    Sector7 RED TEAM OPERATOR courses
       -    eLearn
