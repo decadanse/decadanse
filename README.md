@@ -36,6 +36,7 @@ Some courses:
 -   CEHv11
 -   Reverse Engineering with Ghidra
 -   and other...
+-   and many many books...
 
 Some of my code with what I'm learning stuff you can find here (some of them (almost all of them) you can find only on NotABug.org)
 - Me on NotABug.org https://notabug.org/decadanse
