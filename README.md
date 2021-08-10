@@ -11,7 +11,7 @@ LEARNING
       -    parsers stuff (like for images downloading, for getting some info, for whatever it can be needed), 
       -    sockets stuff, 
       -    scripts (like for reversing, disassembling (with pwn, sys, binascii and other needed libraries))
-- 	Assembler (mainly Intel x86, x64)
+- 	Assembler (mainly Intel x86, x64) (https://beginners.re/ was quite helpful)
 - 	Have experience with disassembly (IDA PRO, Ghidra, pwntools):
       -    learned with some 'crack-me' stuff, 
       -    challenges like: ctfspb, hackaday-u (you can find my papers with answers and how I got them here)
@@ -27,6 +27,15 @@ LEARNING
       -    nmap and other basic stuff for HTB
       -    TCP/UDP
       -    SQL
+      -    BurpSuite
+
+Some courses:
+-   Udemy - Python Networking and Security
+-   Sector7 RED TEAM OPERATOR courses
+-   eLearn
+-   CEHv11
+-   Reverse Engineering with Ghidra
+-   and other...
 
 Some of my code with what I'm learning stuff you can find here (some of them (almost all of them) you can find only on NotABug.org)
 - Me on NotABug.org https://notabug.org/decadanse
