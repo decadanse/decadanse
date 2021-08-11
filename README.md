@@ -6,17 +6,24 @@ LEARNING
 
 - 	Linux (not only Linux like a system but also scripts on bash (if I can make smth faster/easier to use then why not)
 - 	C++
+      -    algorithms   
+      -    math
+      -    matrixs, vectors, dll
 - 	Python: 
       -    writing in Mousepad and just terminal (but for some stuff SublimeText or Jupyter Notebook can be more comfortable),
       -    parsers stuff (like for images downloading, for getting some info, for whatever it can be needed), 
       -    sockets stuff, 
       -    scripts (like for reversing, disassembling (with pwn, sys, binascii and other needed libraries))
+      -    encoder-decoder
+      -    diagrams
+- 	Matlab (math stuff)
+- 	SimInTech (math, thermal detector sensor model using fuzzy logic)
+- 	R (with Stepic "Анализ данных в R" course)
 - 	Assembler (mainly Intel x86, x64) (https://beginners.re/ was quite helpful)
 - 	Have experience with disassembly (IDA PRO, Ghidra, pwntools):
       -    learned with some 'crack-me' stuff, 
       -    challenges like: ctfspb, hackaday-u (you can find my papers with answers and how I got them here)
-- 	Docker, Virtual machines
-- 	Have experience with Windows security policies.
+- 	Virtual machines, Docker
 - 	Studying cybersecurity 
    mainly working with Kali Linux tools, 
    have experience with Windows security policie:
