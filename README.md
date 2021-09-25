@@ -48,7 +48,7 @@ LEARNING
 Some of my code with what I'm learning stuff you can find here (some of them (almost all of them) you can find only on NotABug.org)
 - Me on NotABug.org https://notabug.org/decadanse
  
-- 💞️ I’m looking to collaborate on ... well, I just need more real-world expirience
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... e-mail or via Twitter
 
 
