@@ -4,6 +4,8 @@
 - 💞️ I’m looking to blockchain/Solidity/smart contracts dev job
 - 📫 How to reach me: via e-mail decadanse.contact@gmail.com
 
+bank-staking-pool-R 
+nft-with-royalties are broken and were moved to private
 
 <!---
 
