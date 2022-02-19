@@ -6,7 +6,7 @@
 
 bank-staking-pool-R 
 
-nft-with-royalties are broken and were moved to private
+nft-with-royalties broke while git push (rewrited with other files) and were moved to private
 
 <!---
 
